@@ -1,0 +1,21 @@
+TITLE: Connect to Server
+------------------------------
+
+Cannot connect to faree.
+
+------------------------------
+ADDITIONAL INFORMATION:
+
+A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server) (Microsoft SQL Server, Error: 53)
+
+For help, click: https://docs.microsoft.com/sql/relational-databases/errors-events/mssqlserver-53-database-engine-error
+
+------------------------------
+
+The network path was not found
+
+------------------------------
+BUTTONS:
+
+OK
+------------------------------
